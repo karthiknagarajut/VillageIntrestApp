@@ -39,13 +39,14 @@ git clone https://github.com/karthiknagarajut/VillageIntrestMobileApp.git
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/Home.jpg)
+<img src="screenshots/Home.jpg" alt="Home Screen" width="300"/>
 
 ### 🧾 Input Fields
-![Input Screen](screenshots/Input.jpg)
+<img src="screenshots/Input.jpg" alt="Input Screen" width="300"/>
 
 ### 📊 Result Screen
-![Result Screen](screenshots/Result.jpg)
+<img src="screenshots/Result.jpg" alt="Result Screen" width="300"/>
+
 
 
 ## 💬 https://www.linkedin.com/in/karthiknagarajut/
